@@ -14,7 +14,11 @@ body {
     background-size: 100% 90%;
     background-position: 26em -1px;
 }
+
+/*-------------------------------------------------------*/
 /*---------------------navBar----------------------------*/
+/*-------------------------------------------------------*/
+
 nav {
     display: flex;
     justify-content: space-between;
@@ -42,8 +46,11 @@ nav {
     padding: 0.2em 0.6em;
     border-radius: 1em;
 }
+
 /*-------------------------------------------------------*/
 /*-------------------intro-section-----------------------*/
+/*-------------------------------------------------------*/
+
 .intro-section {
     display: flex;
     height: 100vh;
@@ -95,4 +102,88 @@ nav {
     bottom: 30%;
     left: 7%;
 }
+
 /*-------------------------------------------------------*/
+/*------------------Media-Query--------------------------*/
+/*-------------------------------------------------------*/
+
+@media screen and (max-width: 1486px) {
+    .left-section h1 {
+        font-size: 7vw;
+    }
+    
+    .imgs-div img:last-child {
+        width: 46vw;
+    }
+
+    .vector-img {
+        position: absolute;
+        bottom: 20%;
+        left: -1%;
+    }
+}
+
+@media screen and (max-width: 1340px) {
+    .vector-dot {
+        left: 9%;
+    }
+}
+
+@media screen and (max-width: 974px) {
+    .nav-items {
+        gap: 0em;
+        width: 50vw;
+        justify-content: space-between;
+    }
+}
+
+@media screen and (max-width: 808px) {
+    body {
+        background-size: 100% 100%;
+        background-position:0 -20em;
+    }
+    
+    nav {
+        flex-direction: column;
+        gap: 1.4em;
+    }
+
+    .nav-items {
+        flex-direction: column;
+        align-items: center;
+        gap: 0.8em;
+    }
+
+    .intro-section {
+        flex-wrap: wrap;
+        height: auto;
+    }
+
+    .imgs-div , .left-section {
+        height: auto;
+        width: 100vw;
+        align-items: center;
+        gap: 10vw;
+        justify-content: center;
+        padding-left: 0;
+    }
+
+    .left-section h1 {
+        margin-top: 0em;
+        font-size: 16vw;
+    }
+
+    .left-section h4 {
+        font-size: 3vw;
+        width: 18em;
+    }
+
+    .learn-more-btn {
+        font-size: 5vw;
+    }
+
+    .imgs-div img:last-child {
+        display: block;
+        margin: 2em auto;
+    }
+}
