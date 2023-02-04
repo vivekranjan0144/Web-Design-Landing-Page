@@ -11,7 +11,7 @@ I will make it responsive ASAP.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Demo
-
+[project-8.webm](https://user-images.githubusercontent.com/100980716/215382589-2124d6d0-4fbd-4924-8369-ce3d550e52f6.webm)
 
 ## Honest Time to finish the project
 
@@ -19,7 +19,7 @@ This project took about 1 hours to complete.
 
 ## PROJECT LIVE LINK
 
-<a href="" target="_blank">![Live Link](https://img.shields.io/badge/Live-Link-green)</a>
+<a href="https://html-css-project08.netlify.app/" target="_blank">![Live Link](https://img.shields.io/badge/Live-Link-green)</a>
 
 ## SOCIAL MEDIA LINKS
 - [![facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vivekranjan0144/)
