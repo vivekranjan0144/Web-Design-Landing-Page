@@ -1,8 +1,6 @@
 # HTML-CSS PROJECT-8
 
-This is Web Design Landing Page project made with technology HTML & CSS.
-I haven't made it responsive it only works in desktop/laptop screen.
-I will make it responsive ASAP.
+This is Web Design Landing Page project made with technology HTML & CSS. I have made it responsive it works in both desktop screen and mobile screen.
 
 
 ## 🛠 Technologies Used
@@ -10,8 +8,14 @@ I will make it responsive ASAP.
 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Demo
-[project-8.webm](https://user-images.githubusercontent.com/100980716/215382589-2124d6d0-4fbd-4924-8369-ce3d550e52f6.webm)
+## Demo Video in Desktop Screen
+
+[Project-8.webm](https://user-images.githubusercontent.com/100980716/216778189-08c6fb62-ac17-4b49-92c8-7ef4c2534a5e.webm)
+
+
+## Demo Video in Mobile Screen
+
+https://user-images.githubusercontent.com/100980716/216778331-f1d36cc8-4dcc-46d3-b4e8-8eb07de75f15.mp4
 
 ## Honest Time to finish the project
 
